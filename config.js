@@ -11,7 +11,7 @@ const CONFIG = {
     reply: 'Tại vì cậu đáng iuu lắm ý hihi <33333',
     mess: 'Tớ biết mà hihi 🥰 ',
     messDesc: 'còn giờ thì vào ib cho t lunn đi^^.',
-    btnAccept: 'uciii nha <3',
+    btnAccept: 'uciiii nha <3',
     messLink: 'mhttps://www.facebook.com/messages/t/100065166715627', //link fb
     bgLink: 'https://c4.wallpaperflare.com/wallpaper/880/299/772/tree-heart-hearts-love-wallpaper-preview.jpg', //link ảnh nền
     iputBgLink: 'https://huypham9205.github.io/tang-crush/img/iput-bg.jpg', //link iputBgLink
